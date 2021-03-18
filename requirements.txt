@@ -6,8 +6,11 @@ certifi==2020.12.5
 cfn-flip==1.2.3
 chardet==4.0.0
 click==7.1.2
+dnspython==2.1.0
 durationpy==0.5
+email-validator==1.1.2
 Flask==1.1.2
+Flask-Login==0.5.0
 Flask-Migrate==2.7.0
 Flask-SQLAlchemy==2.4.4
 Flask-WTF==0.14.3
@@ -24,6 +27,7 @@ Mako==1.1.4
 MarkupSafe==1.1.1
 pip-tools==6.0.0
 placebo==0.9.0
+PyMySQL==1.0.2
 pysqlite3==0.4.5
 python-dateutil==2.8.1
 python-dotenv==0.15.0
